@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <tr>
       <td><b>JTPAM</b></td>
       <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167865523000442"><b>[pdf]</b></a> </td>
-      <td><b>[code:coming soon]</b> </td>
+      <td><b>coming soon!</b> </td>
     </tr>
   </tbody>
 </table>
