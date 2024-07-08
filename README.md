@@ -28,9 +28,9 @@ Here are some ideas to get you started:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>JTPAM</b></a></td>
-      <td><<a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>[code]</b></a> /></td>
-      <td><<a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>[code]</b></a> /></td>
+      <td><b>JTPAM</b></td>
+      <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167865523000442"><b>[pdf]</b></a> </td>
+      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>[code]</b></a> </td>
     </tr>
   </tbody>
 </table>
