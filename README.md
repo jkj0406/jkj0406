@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <tr>
       <td><b>JTPAM</b></td>
       <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167865523000442"><b>[pdf]</b></a> </td>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>[code]</b></a> </td>
+      <td><b>[code:coming soon]</b> </td>
     </tr>
   </tbody>
 </table>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </ul>
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<p><a href="https://github.com/jkj0406" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 </p>
 
 
