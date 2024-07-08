@@ -22,7 +22,6 @@ Here are some ideas to get you started:
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
       <td><b>📚 pdf</b></td>
       <td><b>🛎 code</b></td>
     </tr>
@@ -30,9 +29,8 @@ Here are some ideas to get you started:
   <tbody>
     <tr>
       <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>JTPAM</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="pdf" <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>[code]</b></a> /></td>
-      <td><img alt="code" <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>[code]</b></a> /></td>
+      <td><<a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>[code]</b></a> /></td>
+      <td><<a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>[code]</b></a> /></td>
     </tr>
   </tbody>
 </table>
