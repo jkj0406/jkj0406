@@ -14,3 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+
+<p>Welcome to my page! </br> I'm Kangjun Jin, currently living in China. </p>
+
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 pdf</b></td>
+      <td><b>🛎 code</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>JTPAM</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="pdf" <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>[code]</b></a> /></td>
+      <td><img alt="code" <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>[code]</b></a> /></td>
+    </tr>
+  </tbody>
+</table>
+<h3>My public</h3>
+<ul>
+  <li><br/><i>Jointly Texture Enhanced and Stereo Captured Network for Stereo Image Super-Resolution.</i> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167865523000442"><b> [pdf]</b></a></li>
+</ul>
+
+<h3>Where to find me</h3>
+<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+</p>
+
