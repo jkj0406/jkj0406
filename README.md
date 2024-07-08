@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **jkj0406/jkj0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
